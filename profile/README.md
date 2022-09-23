@@ -13,9 +13,9 @@ The repository for the recruitment will become published soon!
 
 ## I wanna get in touch
 
-email: *amministrazione@teamdiana.it*  <b>
-our [website](https://www.teamdiana.it) <b>
-our [instagram profile](https://www.instagram.com/team_diana_polito) <b>
+email: *amministrazione@teamdiana.it*  <br>
+our [website](https://www.teamdiana.it) <br>
+our [instagram profile](https://www.instagram.com/team_diana_polito) <br>
 
 
 
