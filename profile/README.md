@@ -9,7 +9,7 @@ All of Team DIANA repositories are private. We do this to protect the hard work 
 All the public repositories you see are *deprecated* and archived projects that were forked almost 10 years ago. Since they are forks, we can't set them as private. They're a nice memory, but we don't use them anymore!
 
 ## I'm here for the recruitment
-Here is the [recruitment coding challenge!](https://github.com/team-diana/DIANA-Recruitment-2022-23/settings)
+Here is the [recruitment coding challenge!](https://github.com/team-diana/DIANA-Recruitment-2022-23)
 
 ## I wanna get in touch
 
