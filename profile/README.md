@@ -9,13 +9,13 @@ All of Team DIANA repositories are private. We do this to protect the hard work 
 All the public repositories you see are *deprecated* and archived projects that were forked almost 10 years ago. Since they are forks, we can't set them as private. They're a nice memory, but we don't use them anymore!
 
 ## I'm here for the recruitment
-Here is the [recruitment coding challenge!](https://github.com/team-diana/DIANA-Recruitment-2022-23)
+The recruitment has been closed. Thanks for your application and see you next year!
 
-## I wanna get in touch
+## I want to get in touch
 
-email: *amministrazione@teamdiana.it*  <br>
-our [website](https://www.teamdiana.it) <br>
-our [instagram profile](https://www.instagram.com/team_diana_polito) <br>
+- email: *amministrazione@teamdiana.it*  <br>
+- our [website](https://www.teamdiana.it) <br>
+- our [instagram profile](https://www.instagram.com/team_diana_polito) <br>
 
 
 
